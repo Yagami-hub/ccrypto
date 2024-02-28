@@ -1,0 +1,22 @@
+{
+  "name": "decentralized-exchange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+      "url": "git+https://github.com/zhugod1/Decentralized-Exchange"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.11.1",
+    "express": "^4.18.2",
+    "web3": "^4.5.0"
+  }
+}
